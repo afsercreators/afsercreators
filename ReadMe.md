@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Muktodhara Technology Ltd<br>👯 I’m looking to collaborate on MERN Stack projects and IoT solutions<br>🤝 I’m looking for help with implementing Amazon Face Recognition and advanced IoT applications<br>🌱 I’m currently learning TypeScript, IoT, and FinTech<br>💬 Ask me about HR360, MERN stack development, and UI/UX design with entsandt.com<br>⚡ Fun fact: I enjoy solving business challenges through tech while exploring unique solutions like soil pH sensors!<br><br>
+🔭 I’m Founder Alligator Commerce<br>👯 I’m looking to collaborate on MERN Stack projects and IoT solutions<br>🤝 I’m looking for help with implementing Amazon Face Recognition and advanced IoT applications<br>🌱 I’m currently learning TypeScript, IoT, and FinTech<br>💬 Ask me about HR360, MERN stack development, and UI/UX design with entsandt.com<br>⚡ Fun fact: I enjoy solving business challenges through tech while exploring unique solutions like soil pH sensors!<br><br>
 
 
 ## 🌐 Socials:
